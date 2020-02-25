@@ -25,7 +25,10 @@ d
 <a name="filedesc"/>
 
 ## Files Description
-There are three files in the data file (data review, calender)
+
+- **reviews.csv:**  contains the listing id, the review id, the date of the review, the reviewer id, reviewer name and the comment he/she wrote.
+- **calendar.csv:** contains the listing id, the date for that it, whether it was available or not and the price.
+- **listings.csv:** contains many information about the listings
  
  
 <a name="results"/>
@@ -37,5 +40,5 @@ The results can be found in mediam
 <a name="lic"/>
 
 ## Licensing, Authors, Acknowledgements
-There are licencing, regular licences
+Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
  
