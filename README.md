@@ -17,10 +17,9 @@ The code for this project should run with the default Anaconda libraries, no ext
 
 ## Project Motivation
 This is a Udacity project that is intended to test my abilities as a data scientist and how I would perform with a real world task, for that I chose to work with Airbnb Seattle data, and answer the following questions:
-1. What is the salary difference in the western world and in the eastern world?
-2. How are the programmers satisfying about their job between these two sides of the world?
-3. Are there more jobs opportunity in the western world than that in the eastern world?
-d
+1. What is the relationship between listing availability and price across the year?
+2. How does the top 500 earners compare to the lower 500?
+3. For the top 20 reviewers what is the average number of characters they use in their reviews?
 
 <a name="filedesc"/>
 
@@ -35,7 +34,6 @@ d
 
 ## Results
 The results can be found in mediam
- 
  
 <a name="lic"/>
 
