@@ -33,7 +33,7 @@ This is a Udacity project that is intended to test my abilities as a data scient
 <a name="results"/>
 
 ## Results
-The results can be found in mediam
+The results can be found in [this Mediam blog](https://medium.com/@osama1991bokhari/tips-to-become-a-better-airbnb-user-81109ce48176)
  
 <a name="lic"/>
 
